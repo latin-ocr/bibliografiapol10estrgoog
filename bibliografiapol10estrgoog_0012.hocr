@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliografiapol10estrgoog_0012.png"; bbox 0 0 3600 5867; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 81 527 1582 791">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 81 527 1582 791">
+     <span class='ocr_line' id='line_1_1' title="bbox 81 527 1582 791; baseline 0.003 -8"><span class='ocrx_word' id='word_1_1' title='bbox 81 527 1001 786; x_wconf 68' lang='lat' dir='ltr'>BIBLIOGRAFIA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1076 530 1582 791; x_wconf 70' lang='lat' dir='ltr'><strong>POLSKA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 675 1060 994 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 675 1060 994 1186">
+     <span class='ocr_line' id='line_1_2' title="bbox 675 1060 994 1186; baseline 0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 675 1060 814 1185; x_wconf 89' lang='lat' dir='ltr'>TOM</span> <span class='ocrx_word' id='word_1_4' title='bbox 856 1063 994 1186; x_wconf 85' lang='lat' dir='ltr'><strong>XXI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 462 1444 1209 1583">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 462 1444 1209 1583">
+     <span class='ocr_line' id='line_1_3' title="bbox 462 1444 1209 1583; baseline 0.004 -9"><span class='ocrx_word' id='word_1_5' title='bbox 462 1444 816 1576; x_wconf 69' lang='lat' dir='ltr'>sToLsscffi</span> <span class='ocrx_word' id='word_1_6' title='bbox 849 1473 1209 1583; x_wconf 82' lang='lat' dir='ltr'>xv-xv111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1804 5867">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1804 5867">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1804 5867; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1804 5867; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
